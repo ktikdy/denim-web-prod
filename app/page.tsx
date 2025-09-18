@@ -194,7 +194,12 @@ export default function HomePage() {
                 </Button>
               </div>
             </div>
-            <LeadershipVisual />
+            <div className="relative">
+              <video autoPlay loop muted playsInline className="w-full h-auto">
+                <source src="/denim_homepage_leadership.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
+            </div>
           </div>
         </Container>
       </section>

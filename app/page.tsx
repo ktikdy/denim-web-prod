@@ -194,7 +194,12 @@ export default function HomePage() {
                 </Button>
               </div>
             </div>
-            <LeadershipVisual />
+            <div className="relative">
+              <video autoPlay loop muted playsInline className="w-full h-auto">
+                <source src="/denim_homepage_leadership.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
+            </div>
           </div>
         </Container>
       </section>
@@ -228,7 +233,7 @@ export default function HomePage() {
               <div className="lg:col-span-2">
                 <h2 className="text-3xl font-heading text-gray-900 mb-4">Transform your operations</h2>
                 <p className="text-lg text-gray-600 leading-relaxed mb-4">
-                  Denim Health helps hospitals and health systems unlock measurable ROI through AI-powered automation.
+                  Denim Health helps hospitals and health systems unlock compelling ROI through AI-powered automation.
                 </p>
                 <p className="text-lg text-gray-600">Reach out to learn how Denim can help your organization.</p>
               </div>

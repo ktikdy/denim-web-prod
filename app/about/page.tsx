@@ -20,8 +20,8 @@ export default function LeadershipPage() {
   ]
   const linkedinUrls = [
     "https://www.linkedin.com/in/mike-kadyan-812b4",
-    "https://www.linkedin.com/in/bengawiser/",
     "https://www.linkedin.com/in/haithcox/",
+    "https://www.linkedin.com/in/gokberkyar/",
     "https://www.linkedin.com/in/satyangunnam/",
     "https://www.linkedin.com/in/amy-bodin-42536824/",
   ]

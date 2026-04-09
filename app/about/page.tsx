@@ -125,7 +125,7 @@ export default function LeadershipPage() {
                         href={linkedinUrls[index]}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block hover:opacity-90 transition-opacity"
+                        className="block w-full hover:opacity-90 transition-opacity"
                       >
                         <Card className="p-6 bg-white border-2 border-gray-200 hover:border-denim-light-blue/30 transition-all duration-300 hover:shadow-lg relative cursor-pointer">
                           <div className="text-center">
@@ -148,7 +148,7 @@ export default function LeadershipPage() {
                         </Card>
                       </Link>
                     ) : (
-                      <Card className="p-6 bg-white border-2 border-gray-200 hover:border-denim-light-blue/30 transition-all duration-300 hover:shadow-lg relative">
+                      <Card className="w-full p-6 bg-white border-2 border-gray-200 hover:border-denim-light-blue/30 transition-all duration-300 hover:shadow-lg relative">
                         <div className="text-center">
                           <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden border-4 border-denim-light-blue/20 shadow-md">
                             <Image

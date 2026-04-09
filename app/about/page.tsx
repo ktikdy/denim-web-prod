@@ -140,7 +140,7 @@ export default function LeadershipPage() {
                             </div>
                             <div className="space-y-2">
                               <h3 className="font-heading text-gray-900 text-xl">{leader.name}</h3>
-                              <p className="text-denim-dark-blue text-sm font-medium bg-denim-light-blue/10 px-3 py-1 rounded-full">
+                              <p className="text-denim-dark-blue text-sm font-medium bg-denim-light-blue/10 px-3 py-1.5 rounded-lg leading-snug">
                                 {leader.title}
                               </p>
                             </div>
@@ -161,7 +161,7 @@ export default function LeadershipPage() {
                           </div>
                           <div className="space-y-2">
                             <h3 className="font-heading text-gray-900 text-xl">{leader.name}</h3>
-                            <p className="text-denim-dark-blue text-sm font-medium bg-denim-light-blue/10 px-3 py-1 rounded-full">
+                            <p className="text-denim-dark-blue text-sm font-medium bg-denim-light-blue/10 px-3 py-1.5 rounded-lg leading-snug">
                               {leader.title}
                             </p>
                           </div>

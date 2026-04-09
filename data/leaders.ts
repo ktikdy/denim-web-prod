@@ -1,7 +1,7 @@
 export const leaders = [
   {
     name: "Michael Kadyan",
-    title: "CEO & Co-founder",
+    title: "CEO and Co-founder",
     image: "/images/team-member-1.png",
     description:
       "Mike Kadyan is a serial health tech founder dedicated to driving measurable results for hospitals and health systems. Mike is CEO and Co-founder of Denim Health and previously was CEO and Co-founder of Iodine Software, a healthcare SaaS unicorn, where he continues to serve as Chairman of the Board. Mike was also CEO and Co-founder of Crimson, a company aimed at enhancing healthcare provider quality, which was acquired by The Advisory Board Company. He holds a BS in Business Administration from Boston University and an MBA from Harvard Business School. Additionally, Mike serves as a Member of the Board of Trustees at Saint Stephen's Episcopal School.",
@@ -15,14 +15,14 @@ export const leaders = [
   },
   {
     name: "Gokberk Yar",
-    title: "Principal Engineer",
+    title: "Principal Software Engineer",
     image: "/images/team-member-3.jpg",
     description:
       "Gokberk Yar is a technology leader specializing in artificial intelligence, machine learning, and scalable healthcare solutions. As Principal Software Engineer at Denim, he oversees the development of AI-powered platforms that automate healthcare operations and integrate with electronic health record systems. Gokberk is responsible for developing its core technology, cloud infrastructure, and production systems while supporting healthcare deployments. Prior to Denim, he conducted machine learning research at Northeastern University and published academic work on AI and distributed learning. He holds a BS in Computer Science from Sabanci University, graduating first in his class, and an MS in Computer Science from Northeastern University."
   },
   {
     name: "Satya Gunnam",
-    title: "Sr. Dir., Product Management",
+    title: "Senior Director, Product Management",
     image: "/images/team-member-5.png",
     description:
       "With extensive experience in full cycle product development, Satya Gunnam is passionate about creating solutions that address healthcare's most pressing issues. Currently, Satya serves as Senior Director of Product Management at Denim Health, where he is responsible for product management, user research, and product strategy. Previously, he had leadership roles at Athenahealth, Fresenius Medical Care, and GE Healthcare. He holds an Electrical Engineering degree from Georgia Tech and an MBA from Harvard Business School.",
